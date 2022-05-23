@@ -1,5 +1,5 @@
 # Entity Relationship Diagram
-<!-- ![alt_text](https://github.com/fahthurdanu/codigram/) -->
+![alt_text](https://github.com/fathurdanu/codigram/blob/main/server/assets/design/erd.png?raw=true)
 
 # API Documentation
 
